@@ -46,7 +46,7 @@ class PantallaUno extends StatelessWidget {
                     ),
                     label: Text("Date Pickers",
                       style: TextStyle(
-                        fontSize: 30,
+                        fontSize: 28,
                       ),)
                   ),
                 ),
@@ -70,7 +70,7 @@ class PantallaUno extends StatelessWidget {
                       ),
                       label: Text("Dialogs",
                         style: TextStyle(
-                          fontSize: 30,
+                          fontSize: 28,
                         ),)
                   ),
                 ),
@@ -94,7 +94,7 @@ class PantallaUno extends StatelessWidget {
                       ),
                       label: Text("Segmented Buttons",
                         style: TextStyle(
-                          fontSize: 30,
+                          fontSize: 26,
                         ),)
                   ),
                 ),
@@ -118,7 +118,7 @@ class PantallaUno extends StatelessWidget {
                       ),
                       label: Text("Navigation Drawer",
                         style: TextStyle(
-                          fontSize: 30,
+                          fontSize: 28,
                         ),)
                   ),
                 ),
